@@ -18,3 +18,11 @@ Thumbs.db
 
 # Large attachment folders
 attachments/*.pdf
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
