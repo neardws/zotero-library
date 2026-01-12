@@ -1,0 +1,20 @@
+# Large files
+*.pdf
+*.epub
+*.djvu
+
+# Zotero database (too large, use Zotero sync instead)
+zotero.sqlite
+zotero.sqlite-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Large attachment folders
+attachments/*.pdf
